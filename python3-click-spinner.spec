@@ -6,7 +6,7 @@
 
 Summary:	Spinner for Click
 Summary(pl.UTF-8):	Kręciołek dla Clicka
-Name:		python-click-spinner
+Name:		python3-click-spinner
 Version:	0.1.10
 Release:	3
 License:	MIT
